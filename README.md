@@ -7,6 +7,7 @@
 </div> 
 
 ## Demo
+![recycle-giphy](https://user-images.githubusercontent.com/81186709/147964637-2ba407a3-425d-4d51-994d-dc99cb94bd96.gif)
 
 
 ## Goals
