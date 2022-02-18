@@ -9,6 +9,7 @@
 ## Demo
 ![recycle-giphy](https://user-images.githubusercontent.com/81186709/147964637-2ba407a3-425d-4d51-994d-dc99cb94bd96.gif)
 
+![recycle-me-giphy-1](https://user-images.githubusercontent.com/81186709/146467515-e092bd27-61c9-469b-9710-ab0f1e0eb2d3.gif)
 
 ## Goals
 For the Capstone Project, Students at Turing School of Software and Design collaborate with students from the frontend and backend engineering programs to build a full stack application. The project goal is to explore and implement new concepts, patterns, or libraries that have not been explicitly taught while at Turing.  New technologies for our team included...
